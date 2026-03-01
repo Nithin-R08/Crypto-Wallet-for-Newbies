@@ -210,7 +210,7 @@ Open the app in your browser:
 
 ## 👩‍💻 Developer
 
-**Nisha Naik**
+**Nisha Naik**,
 **Nithin R**  
 
 B.E. Computer Science & Engineering  
