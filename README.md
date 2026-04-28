@@ -218,5 +218,5 @@ Alva’s Institute of Engineering & Technology (AIET), VTU
 
 *Focused on building intuitive UI experiences, web apps, and beginner-friendly digital tools.*
 
----
+
 
